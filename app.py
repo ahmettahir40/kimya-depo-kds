@@ -1359,7 +1359,7 @@ elif secilen_modul == "7. SUS Kullanılabilirlik Testi (Aşama 5)":
                 }
                 
                 try:
-                    if WEBHOOK_URL != https://script.google.com/macros/s/AKfycbzzVmNterBa_JT9jQxkR1Jtjm__X_wGsAIXKxI6EJkgkX4iPIP_fYBW7i6SGbXhBIuV/exec
+                    if WEBHOOK_URL != "https://script.google.com/macros/s/AKfycbzzVmNterBa_JT9jQxkR1Jtjm__X_wGsAIXKxI6EJkgkX4iPIP_fYBW7i6SGbXhBIuV/exec"
                         requests.post(WEBHOOK_URL, json=veri_paketi, timeout=3)
                 except:
                     pass
