@@ -391,7 +391,7 @@ analiz_tablosu = analitik_hesapla(c_hucre=c_hucre_input, z_katsayi=z_secim[1])
 st.markdown("""
 <div class="top-banner">
     <div>
-        <h1>Kimya Sektöründe Üretim Reçetesi Tabanlı Otomatik Stok Takibi ve Dinamik Depo Yerleşim KDS</h1>
+        <h1> Sektöründe Üretim Reçetesi Tabanlı Otomatik Stok Takibi ve Dinamik Depo Yerleşim KDS</h1>
         <p>Parti (Lot) Bazlı FEFO Stok Hareket Mimarisi &bull; Fire Düzeltmeli Backflushing &bull; Tedarik Süresi Duyarlı ROP &bull; GHS/SDS &amp; Kapasite Kısıtlı COI Optimizasyonu</p>
     </div>
     <div class="badge-box">
