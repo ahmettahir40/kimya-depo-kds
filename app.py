@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 import requests
 
 st.set_page_config(
-    page_title="KİM-KDS | Kurumsal Stok ve Depo Optimizasyon Sistemi",
+    page_title="StreamX | Kurumsal Stok ve Depo Optimizasyon Sistemi",
     layout="wide",
     initial_sidebar_state="expanded",
 )
