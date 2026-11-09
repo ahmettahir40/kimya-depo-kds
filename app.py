@@ -360,7 +360,7 @@ def analitik_hesapla(c_hucre=1.5, z_katsayi=1.65):
     hm_df["Durum"] = np.where(hm_df["Toplam_Stok_kg"] <= hm_df["ROP_Esigi_kg"], "KRİTİK (ROP ALTI)", "GÜVENLİ")
     return hm_df
 
-st.sidebar.markdown("## 🧪 KİM-KDS v3.5")
+st.sidebar.markdown("## 🧪 StreamX v3.5")
 st.sidebar.caption("TÜBİTAK 2209-A Araştırma Projesi\nReçete, Lot/FEFO ve Dinamik Depo KDS")
 st.sidebar.markdown("---")
 
